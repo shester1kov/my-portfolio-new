@@ -70,7 +70,6 @@ main {
   justify-content: center;
   padding: 20px;
   min-height: calc(100vh - 250px); /* Учитывает высоту хедера и футера */
-  width: 100%;
 }
 .dark {
   background-color: #121212;
