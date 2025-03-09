@@ -1,3 +1,6 @@
+## ЭФМО-01-24 
+## Шестериков Дмитрий Александрович
+## Сайт визитка на vue js
 # my-portfolio-new
 
 This template should help get you started developing with Vue 3 in Vite.
